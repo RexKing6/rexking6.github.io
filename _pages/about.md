@@ -10,7 +10,7 @@ redirect_from:
 
 *[^_^]: title: "About [中文](http://runqingchen.rexking6.top/about_cn)"
 
-Hi! I’m Run-Qing Chen. I'm now an Master Student supervised by [Dr. Wan-Lei Zhao](http://pami.xmu.edu.cn/~wlzhao/index.htm) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
+Hi! I’m Run-Qing Chen. I'm now a Master Student supervised by [Dr. Wan-Lei Zhao](http://pami.xmu.edu.cn/~wlzhao/index.htm) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
 
 I received my Bachelor degree on Information and Computing Science from Nanjing University of Posts and Telecommunications in Jul. 2018 supervised by [Dr. Song-Song Wu](https://www.researchgate.net/profile/Songsong_Wu). During that period, My research focus was Zero-shot Learning.
 
