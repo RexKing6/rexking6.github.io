@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I’m Run-Qing Chen. I'm now an Master Student supervised by [Dr. Wan-Lei Zhao](http://pami.xmu.edu.cn/~wlzhao/index.htm) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
 
-I received my Bachelor degree on Information and Computing Science from Nanjing University of Posts and Telecommunications in Jul. 2018 supervised by [Prof. Song-Song Wu](https://www.researchgate.net/profile/Songsong_Wu). During that period, My research focus was Zero-shot Learning.
+I received my Bachelor degree on Information and Computing Science from Nanjing University of Posts and Telecommunications in Jul. 2018 supervised by [Dr. Song-Song Wu](https://www.researchgate.net/profile/Songsong_Wu). During that period, My research focus was Zero-shot Learning.
 
 My current research focus is anomaly detection on time series, and optimizing clustering approaches such as K-means. Welcome to [my blog](http://blog.rexking6.top/).
 
