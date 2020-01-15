@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About [中文](http://runqingchen.rexking6.top/about_cn)"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+*[^_^]: title: "About [中文](http://runqingchen.rexking6.top/about_cn)"
 
 Hi! I’m Run-Qing Chen. I'm now an Master Student supervised by [Dr. Wan-Lei Zhao](http://pami.xmu.edu.cn/~wlzhao/index.htm) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
 
@@ -31,4 +32,7 @@ My current research focus is anomaly detection on time series, and optimizing cl
  
 ## Academic awards & recognitions
 
-* CR
+* 2018\~2020: Postgraduate studentship by Xiamen University
+* Nov. 2017: Innovation Pacemaker by Nanjing University of Posts and Telecommunications
+* May. 2017: Meritorious Winner on Mathematical Contest In Modeling
+* May. 2016: Meritorious Winner on Mathematical Contest In Modeling
