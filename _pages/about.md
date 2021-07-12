@@ -10,11 +10,13 @@ redirect_from:
 
 *[^_^]: title: "About [中文](http://rexking6.top/about_cn)"
 
-Hi! I’m Run-Qing Chen. I'm now a Master Student supervised by Dr. Wan-Lei Zhao on Computer Science and Technology in Department of Computer Science and Technology, School of Informatics, Xiamen University. 
+Hi! I’m Run-Qing Chen. 
+
+I received my Master degree on Computer Science and Technology in Department of Computer Science and Technology, School of Informatics, Xiamen University in Jul. 2021 supervised by [Dr. Wan-Lei Zhao](https://scholar.google.com/citations?user=-ECnpPEAAAAJ).  During that period, My research focus were Anomaly Detection and Matrix Profile.
 
 I received my Bachelor degree on Information and Computing Science from Nanjing University of Posts and Telecommunications in Jul. 2018 supervised by [Dr. Song-Song Wu](https://www.researchgate.net/profile/Songsong_Wu). During that period, My research focus was Zero-shot Learning.
 
-My current research focus is anomaly detection on time series, and optimizing clustering approaches such as K-means. Welcome to [my blog](http://blog.rexking6.top/).
+Welcome to [my blog](https://blog.rexking6.top/)!
 
 ## Research Interests
 
@@ -22,16 +24,16 @@ My current research focus is anomaly detection on time series, and optimizing cl
 * Matrix Profile
 * Clustering
 
-## Working Experiences
+<!-- ## Working Experiences
 
 * Sep. 2019\~Jan. 2020: Teaching assistant, Xiamen University.
 * July 2017\~Aug. 2017: Web crawler intern, OFashion.
 * May 2017\~June 2017: developed a early-warning system based on electricity consumption data analysis for Jiangsu Electric Power Company.
-* Sep. 2015\~June 2016: Association Lecturer, Students’ Association for Science and Technology, Nanjing University of Posts and Telecommunications.
+* Sep. 2015\~June 2016: Association Lecturer, Students’ Association for Science and Technology, Nanjing University of Posts and Telecommunications. -->
  
-## Academic awards & recognitions
+<!-- ## Academic awards & recognitions
 
 * 2018\~2020: Postgraduate studentship by Xiamen University
 * Nov. 2017: Innovation Pacemaker by Nanjing University of Posts and Telecommunications
 * May. 2017: Meritorious Winner on Mathematical Contest In Modeling
-* May. 2016: Meritorious Winner on Mathematical Contest In Modeling
+* May. 2016: Meritorious Winner on Mathematical Contest In Modeling -->

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Run-Qing Chen"
 title_separator          : "-"
 name                     : &name "Run-Qing Chen"
-description              : &description "XMU Master"
+description              : &description ""
 url                      : https://rexking6.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rexking6/rexking6.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Run-Qing Chen"
   avatar           : "profile.jpg"
-  bio              : "A master student"
-  location         : "Xiamen"
+  bio              : ""
+  location         : "Hangzhou"
   employer         :
   pubmed           : 
   googlescholar    : 
