@@ -9,6 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * **Run-­Qing Chen**, Guang-­Hui Shi, Wan-­Lei Zhao and Chang-­Hui Liang. *A Joint Model for IT Operation Series Prediction and Anomaly Detection.* Neurocomputing. 2021. [PDF](https://arxiv.org/pdf/1910.03818.pdf)
 * Chen Wang, **Run-Qing Chen**, Yang Lu, Yan Yan, Han-Zi Wang. *Recurrent Context Aggregation Network for Single Image Dehazing.* IEEE Signal Processing Letters. 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9350156/)
+* Chang-Hui Liang, Wan-Lei Zhao and **Run-Qing Chen**. *Dynamic Sampling for Deep Metric Learning.* Pattern Recognition Letters. 2021. [PDF](https://arxiv.org/pdf/2004.11624.pdf) [CODE](https://github.com/CH-Liang/DSDML)
 * **Run-­Qing Chen**. *PAKDD2020 Alibaba AI Ops Competition: Large-Scale Disk Failure Prediction.* Communications in Computer and Information Science. 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-15-7749-9.pdf)
 * Wan-Lei Zhao, **Run-Qing Chen**, Hui Ye and Chong-Wah Ngo. *k-sums: another side of k-means.* arXiv. 2020. [PDF](https://arxiv.org/pdf/2005.09485.pdf) [CODE](https://github.com/cc-cyber/k-sums)
 * Chang-Hui Liang, Wan-Lei Zhao, **Run-Qing Chen**. *Dynamic Sampling for Deep Metric Learning.* arXiv. 2020. [PDF](https://arxiv.org/pdf/2004.11624.pdf)
