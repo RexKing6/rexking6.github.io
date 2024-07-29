@@ -10,7 +10,7 @@ redirect_from:
 
 *[^_^]: title: "About [中文](http://rexking6.top/about_cn)"
 
-Hi! I’m Run-Qing Chen. 
+Hi! I’m Run-Qing Chen, an AIOps algorithm developer at Alibaba Cloud. My expertise lies in Root Cause Analysis, where I pinpoint the heart of IT issues. I also craft predictive models for failure anticipation and develop anomaly detection systems to spot irregular patterns. Additionally, I work on Retrieval-Augmented Generation with Large Language Models to enhance AI's capabilities. I'm passionate about leveraging AI to make IT operations more efficient and proactive.
 
 I received my Master degree on Computer Science and Technology in Department of Computer Science and Technology, School of Informatics, Xiamen University in Jul. 2021 supervised by [Dr. Wan-Lei Zhao](https://scholar.google.com/citations?user=-ECnpPEAAAAJ).  During that period, My research focus were Anomaly Detection and Matrix Profile.
 
@@ -20,9 +20,13 @@ Welcome to [my blog](https://blog.rexking6.top/)!
 
 ## Research Interests
 
-* Anomaly Detection
-* Matrix Profile
-* Clustering
+* AIOps
+  * Root Cause Analysis
+  * Failure Prediction
+  * Anomaly Detection
+  * Matrix Profile
+* LLM
+  * RAG
 
 <!-- ## Working Experiences
 
